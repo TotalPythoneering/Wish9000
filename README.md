@@ -28,7 +28,7 @@ Because the mission of this **Wish9000** package is to share the wish 'grants' h
 
 🪄**JSON Wish 1201:** "I wish I could stop worrying about newlines on Windows."
 
-🪄**JSON Wish 1202:** "I wish I could I had an robust & automatic data backup."
+🪄**JSON Wish 1202:** "I wish I had an robust & automatic data backup."
 
 🪄**JSON Wish 1203:** "I wish I could manage any data backups at the command line."
 
