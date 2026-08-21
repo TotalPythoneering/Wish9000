@@ -12,7 +12,7 @@
 import json
 import re
 
-from tempfile import TempFile
+from Wish9000.tempfile import TempFile
 
 class Juman:
     '''
