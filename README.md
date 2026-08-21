@@ -1,13 +1,38 @@
-# Wish9000
-**MISSION:** 👉 Share the 'grants' 😏 supporting our [TOTAL PYTHONEERING](https://ko-fi.com/randallnagy) 🤠 Wish List. 🔮
+# Wish List
 
-This **Wish9000** package provides a robust, production-grade toolset designed to simplify local development, preserve data integrity, and bridge the gap between structured code and human readability. 
+Born out of the livid frustration with managing my [PyQuest](https://github.com/Python3-Training/PyQuest) and Cookpedia data files, this project presently contains two core modules:
 
-Born out of the livid frustration with managing my [PyQuest](https://github.com/Python3-Training/PyQuest) and Cookpedia data files, the suite presently contains two core modules:
+## 🚀 Real-World Backup Support
+1. **TempFile** (`tempfile.py`):
+   
+A fully integrated backup and file lifecycle strategy that secures files and preserves metadata before destructive data transitions.
 
-1. **Juman** (`juman.py`): A human-centric JSON handler that unpacks and normalizes multi-line plain old text strings (POTS) into clean, visually aligned layouts across Mac (`\r`), Windows (`\r\n`), and POSIX (`\n`) newline formats.
+## 🚀 Real-World JSON Support
+2. **Juman** (`juman.py`):
+   
+A human-centric JSON handler that unpacks and normalizes multi-line plain old text strings (POTS) into clean, visually aligned layouts across Mac (`\r`), Windows (`\r\n`), and POSIX (`\n`) newline formats.
 
-2. **TempFile** (`tempfile.py`): A fully integrated backup and file lifecycle strategy that secures files and preserves metadata before destructive data transitions.
+## 🚀 Why?
+
+Because the mission of this **Wish9000** package is to share the wish 'grants' herein 🧞 of:
+
+🪄**File Wish 1100:** "I wish I could backup a file that keeps the file time & status."
+
+🪄**File Wish 1101:** "I wish I could tell if there are any backup files."
+
+🪄**File Wish 1102:** "I wish I could tell how many backup files there are."
+
+🪄**File Wish 1103:** "I wish I could delete all of my backup files."
+
+🪄**JSON Wish 1200:** "I wish I could use JSON to easily edit multi-line TEXT."
+
+🪄**JSON Wish 1201:** "I wish I could stop worrying about newlines on Windows."
+
+🪄**JSON Wish 1202:** "I wish I could I had an robust & automatic data backup."
+
+🪄**JSON Wish 1203:** "I wish I could manage any data backups at the command line."
+
+These above now supported by this [TOTAL PYTHONEERING](https://ko-fi.com/randallnagy) 🤠 Project. 🔮
 
 ## 🚀 Features
 
