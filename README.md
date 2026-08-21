@@ -1,23 +1,30 @@
 # Wish9000
-**MISSION:** 👉 Share the 'grants' 😏 supporting our TOTAL PYTHONEERING 🤠 Wish List. 🔮
+**MISSION:** 👉 Share the 'grants' 😏 supporting our (TOTAL PYTHONEERING)[https://ko-fi.com/randallnagy] 🤠 Wish List. 🔮
 
 This **Wish9000** package provides a robust, production-grade toolset designed to simplify local development, preserve data integrity, and bridge the gap between structured code and human readability. 
 
-The suite contains two core modules:
+Born out of the livid frustration with managing my [PyQuest](https://github.com/Python3-Training/PyQuest) and Cookpedia data files, the suite presently contains two core modules:
+
 1. **Juman** (`juman.py`): A human-centric JSON handler that unpacks and normalizes multi-line plain old text strings (POTS) into clean, visually aligned layouts across Mac (`\r`), Windows (`\r\n`), and POSIX (`\n`) newline formats.
+
 2. **TempFile** (`tempfile.py`): A fully integrated backup and file lifecycle strategy that secures files and preserves metadata before destructive data transitions.
 
 ## 🚀 Features
 
 ### 📄 Juman (JSON for Humans)
 - **Newline Normalization** - Automatically cleans up erratic cross-platform carriage returns (`\r\n`, `\r`) during data ingestion.
+  
 - **Visual Block Indentation** - Replaces unreadable escaped string newlines (`\n`) with beautiful, block-aligned physical space lines for easier git diffs and human editing.
+  
 - **Safe Evaluation** - Gracefully handles raw internal text sequences without tripping standard library json parsers.
+  
 - **Fail-Safe Processing** - Couples writing workflows directly with automated snapshot architecture.
 
 ### 🛡️ TempFile Strategy
 - **Metadata Preservation** - Clones your vital assets into backups while retaining original system timestamps and permissions.
+  
 - **Collision Immunity** - Guarantees unique file generation by dynamically resolving duplicate name conflicts.
+  
 - **Directory Scrubbing** - Sweeps, counts, and systematically purges lifecycle-ended temp files with pinpoint accuracy.
 
 ## 📊 Visual Transformation Example
@@ -114,6 +121,6 @@ Distributed under the **MIT License**. See the `LICENSE` file for details.
 
 ## ✉️ Contact
 
-- **Author / Publisher:** TOTAL PYTHONEERING
+- **Author / Publisher:** (TOTAL PYTHONEERING)[https://ko-fi.com/randallnagy]
 - **Project Link:** [Wish9000](https://github.com/TotalPythoneering/Wish9000)
 
