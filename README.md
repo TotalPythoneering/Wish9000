@@ -1,5 +1,5 @@
 # Wish9000
-**MISSION:** 👉 Share the 'grants' 😏 supporting our (TOTAL PYTHONEERING)[https://ko-fi.com/randallnagy] 🤠 Wish List. 🔮
+**MISSION:** 👉 Share the 'grants' 😏 supporting our [TOTAL PYTHONEERING](https://ko-fi.com/randallnagy) 🤠 Wish List. 🔮
 
 This **Wish9000** package provides a robust, production-grade toolset designed to simplify local development, preserve data integrity, and bridge the gap between structured code and human readability. 
 
@@ -121,6 +121,8 @@ Distributed under the **MIT License**. See the `LICENSE` file for details.
 
 ## ✉️ Contact
 
-- **Author / Publisher:** (TOTAL PYTHONEERING)[https://ko-fi.com/randallnagy]
-- **Project Link:** [Wish9000](https://github.com/TotalPythoneering/Wish9000)
+- **Author / Publisher:**
+  [TOTAL PYTHONEERING](https://ko-fi.com/randallnagy)
+- **Project Link:**
+  [Wish9000](https://github.com/TotalPythoneering/Wish9000)
 
